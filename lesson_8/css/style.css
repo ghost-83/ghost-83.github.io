@@ -1,0 +1,23 @@
+body {
+	color: #333333;
+	line-height: 1.5;
+}
+.row {
+
+	margin: 150px auto;
+	text-align: center;
+}
+.col-12 {
+	margin-bottom: 100px;
+}
+img {
+	height: 120px;
+	margin-bottom: 40px;
+}
+h1 {
+	text-transform: uppercase;
+	font-weight: 300;
+}
+p {
+	font-weight: 900;
+}
