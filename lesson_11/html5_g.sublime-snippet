@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="${1:ru}">
+<head>
+    <meta charset="UTF-8">
+    <title>${2:Заголовок}</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="header text-center">${2:Заголовок}</h1>
+                ${3:}
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>g-h!</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.html</scope>
+</snippet>
