@@ -1,0 +1,99 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: Tahoma, sans-serif;
+	color: #333333;
+	line-height: 1.5;
+}
+.cektion-top {
+	margin-top: 100px;
+
+}
+.cektion-top h1 {
+	text-align: center;
+	font-size: 24px;
+}
+.cektion-top span {
+	display: block;
+	font-weight: 300;
+}
+.cektion-top strong {
+	font-weight: 900;
+	text-transform: uppercase;
+}
+.video-form {
+	padding: 50px 15%;
+	text-align: center;
+}
+.video {
+	display: inline-block;
+	vertical-align: top;
+}
+.form {
+	margin-left: 30px;
+	display: inline-block;
+	vertical-align: top;
+	border: 5px solid #2727d9;
+	padding: 25px;
+	text-align: center;
+}
+.form input {
+	width: 300px;
+	padding: 17px;
+	border: 1px solid #333;
+	font-style: 18px;
+	margin-top: 14px;
+	display: block;
+}
+.form p {
+	font-style: 20px;
+	text-align: center;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+.form-button {
+	margin: 12px auto;
+	font-style: 18px;
+	font-weight: 900;
+	color: #fff;
+	background-color: #2727d9;
+	border: none;
+	width: 300px;
+	height: 60px;
+	display: block;
+}
+.cektion-cent {
+	text-align: center;
+}
+.col {
+	display: inline-block;
+	text-align: center;
+	margin: 10px 50px;
+}
+
+h2 {
+	margin-top: 60px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 900;
+	font-style: 24px;
+}
+.feature {
+	margin: 50px auto;
+}
+.col p {
+	font-weight: 900;
+	font-style: 16px;
+	display: table-caption;
+}
+.cektor-mid {
+	margin: 50px auto;
+	text-align: center;
+}
+.cektor-mid img {
+	height: 215px;
+	width: 215px;
+	margin: 30px 25px 0 0;
+	object-fit: cover;
+}
