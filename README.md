@@ -18,3 +18,5 @@
 [Задание №10](ghost-83.github.io/lesson_10/ "Задание №10") - LESS код
 
 [Задание №11](ghost-83.github.io/lesson_11/ "Задание №11") - Снипперы
+
+[Задание №13](ghost-83.github.io/lesson_13/ "Задание №13") - Форма в стиле Pixel Perfect
