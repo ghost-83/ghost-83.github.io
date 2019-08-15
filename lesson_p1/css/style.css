@@ -1,0 +1,25 @@
+/* Цвета */
+/* Базовые настройки */
+html {
+  font-size: 10px;
+}
+/* Типография */
+section {
+  padding: 10rem 0;
+}
+.buttons {
+  background-color: #fcb303;
+  color: #ffffff;
+  padding: 1rem 3rem;
+  border-radius: 8px;
+  text-transform: uppercase;
+  border: none;
+}
+main {
+  padding: 3rem 0;
+}
+.pfone-link {
+  color: #1a1820;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
